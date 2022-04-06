@@ -38,9 +38,11 @@ body {
   margin-top: 2rem;
 }
 .middle-part img {
-  width: 440px;
+  width: 380px;
+  height: 200px;
   object-fit: cover;
   margin-left: 2rem;
+  margin-top: 2rem;
 }
 .price {
   display: grid;
@@ -68,10 +70,10 @@ body {
   background: rgb(214, 182, 1);
 }
 .bottom-part {
-  margin-top: 3rem;
+  margin-top: 4rem;
   display: flex;
   margin-left: 8rem;
-  gap: 2.5rem;
+  gap: 2rem;
   align-items: center;
 }
 .bottom-part-link {
@@ -85,16 +87,17 @@ body {
   letter-spacing: 0.5px;
 }
 .bottom-part-link h6 {
-  font-size: 16px;
-  font-weight: 700;
+  font-size: 14px;
+  font-weight: 900;
   color: #272a3f;
   letter-spacing: 2px;
 }
 .bottom-part-logo img {
-  width: 140px;
+  width: 150px;
+  height: 48px;
 }
 .left-banner {
-  padding: 2rem 4rem;
+  padding: 1rem 3rem;
   background: #01418a;
   color: #fff;
   position: absolute;
